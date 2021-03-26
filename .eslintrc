@@ -10,7 +10,9 @@
     "linebreak-style": ["error", "windows"],
     "arrow-parens": "off",
     "require-jsdoc": "off",
-    "indent": "off"
+    "indent": "off",
+    "comma-dangle": "off",
+    "operator-linebreak": "off"
   },
   "extends": ["google"]
 }
